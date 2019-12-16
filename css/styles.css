@@ -18,7 +18,7 @@ p {
 }
 h1 {
   background-color: purple;
-  color: white;
+  color: rgb(207, 187, 187);
   margin-left: : 0px;
   margin-right: 0px;
   padding: 30px;
@@ -57,7 +57,6 @@ h1 {
 }
 .black-background {
   background-color: black;
+  color: white;
 }
-.white-font {
-  font: white;
-}
+
