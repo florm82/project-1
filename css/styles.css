@@ -1,0 +1,63 @@
+#Nikki-showing {
+  display: none;
+  color: purple;
+  font-size: Bold;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+p {
+  font: purple;
+  font-weight: bold;
+}
+h1 {
+  background-color: purple;
+  color: white;
+  margin-left: : 0px;
+  margin-right: 0px;
+  padding: 30px;
+}
+#photo-showing {
+  display: none;
+  color: purple;
+  font-size: Bold;
+}
+#clickable1 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+#clickable1:hover {
+  text-decoration: underline;
+}
+#clickable2 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+#clickable2:hover {
+  text-decoration: underline;
+}
+.green-background {
+  background-color: green;
+}
+
+.yellow-background {
+  background-color: yellow;
+}
+
+.red-background {
+  background-color: red;
+}
+.black-background {
+  background-color: black;
+}
+.white-font {
+  font: white;
+}
