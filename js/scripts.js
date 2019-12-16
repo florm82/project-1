@@ -37,4 +37,18 @@ $(document).ready(function() {
     $("body").removeClass();
     $("body").addClass("black-background");
   });
+  $("button#name").click(function() {
+    $("ul#user").prepend("<li>What is your name?</li>");
+    $("ul#webpage").prepend("<li>Ninnni!</li>");
+  });
+
+  $("button#age").click(function() {
+    $("ul#user").prepend("<li>How old are you?</li>");
+    $("ul#webpage").prepend("<li>DO!</li>");
+  });
+
+  $("button#nikkijan").click(function() {
+    $("ul#user").prepend("<li>Nikki jaan?!</li>");
+    $("ul#webpage").prepend("<li>Bale nina jaan!</li>");
+  });
 });
